@@ -1,0 +1,42 @@
+h1 {font-family: sans-serif;
+    font-size: 50px;
+    color: brown;
+    }
+
+h2 {font-family: Arial;
+    font-size: 38px;
+    color: black;
+    }
+
+h3 {font-family: Arial;
+    font-size: 22px;
+    color: brown;
+    }
+
+.balken {width:565px; 
+        height:8px; 
+        background-color: green;
+        }
+
+#search {font-family: Arial;
+        font-size: 15px;
+        color: brown;
+        }
+
+.kasten {width: 250px;
+        height: 250px;
+        background-color: Gainsboro;
+        padding: 10px;
+        margin: 8px;
+        display: inline-block;
+        }
+
+tr {font-family: Tahoma;}
+li {font-family: Tahoma;
+    font-size: 18px;
+    }
+
+li:hover {font-color: brown;}
+a:link {text-decoration: none; color: #008b45;}
+a:hover {color: brown;}
+a:visited {color: #ee9a00;}
